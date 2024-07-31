@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Innovate, Develop, and Engineer with Confidence - Your Winning Streak Starts Here!",
+        "title": "Gamble: Engineering Your Next Big Bet"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Innovate, Develop, and Engineer with Confidence - Your Winning Streak Starts Here!",
+        "title": "Gamble: Engineering Your Next Big Bet"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Innovate, Develop, and Engineer with Confidence - Your Winning Streak Starts Here!",
+        "title": "Gamble: Engineering Your Next Big Bet"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Innovate, Develop, and Engineer with Confidence - Your Winning Streak Starts Here!",
+        "title": "Gamble: Engineering Your Next Big Bet"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Innovate, Develop, and Engineer with Confidence - Your Winning Streak Starts Here!",
+        "title": "Gamble: Engineering Your Next Big Bet"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Innovate, Develop, and Engineer with Confidence - Your Winning Streak Starts Here!",
+        "title": "Gamble: Engineering Your Next Big Bet"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Innovate, Develop, and Engineer with Confidence - Your Winning Streak Starts Here!",
+        "title": "Gamble: Engineering Your Next Big Bet"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Innovate, Develop, and Engineer with Confidence - Your Winning Streak Starts Here!",
+        "title": "Gamble: Engineering Your Next Big Bet"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Innovate, Develop, and Engineer with Confidence - Your Winning Streak Starts Here!",
+        "title": "Gamble: Engineering Your Next Big Bet"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Gamble: Engineering Your Next Big Bet",
+  "subtitle": "Innovate, Develop, and Engineer with Confidence - Your Winning Streak Starts Here!"
+}
